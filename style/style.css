@@ -26,7 +26,7 @@ main{
 .title{
     font-size: 40px;
     font-weight: bold;
-    vertical-align: text-bottom;
+    vertical-align: 0.8em;
 }
 
 .main-section{
@@ -66,4 +66,62 @@ main{
 
 .font-text{
     font-size: x-large;
+}
+
+.end-box-editorial{
+    background-color: blue;
+    border-radius: 8px;
+    border: 5px solid blue;
+    color: white;
+}
+
+.end-box-goals{
+    background-color: purple;
+    border-radius: 8px;
+    border: 5px solid purple;
+    color: white;
+}
+
+.end-box-recruiting{
+    background-color: green;
+    border-radius: 8px;
+    border: 5px solid green;
+    color: white;
+}
+
+.end-box-mobile{
+    background-color: orange;
+    border-radius: 8px;
+    border: 5px solid orange;
+    color: white;
+}
+
+.end-box-website{
+    background-color: pink;
+    border-radius: 8px;
+    border: 5px solid pink;
+    color: white;
+}
+
+.end-box-sales{
+    background-color: greenyellow;
+    border-radius: 8px;
+    border: 5px solid greenyellow;
+    color: white;
+}
+
+.green-check{
+    color: green;
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    border: 1px solid green;
+}
+
+.red-cross{
+    color: red;
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    border: 1px solid red;
 }
