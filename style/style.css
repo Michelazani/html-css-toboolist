@@ -11,11 +11,11 @@ img{
 
 header{
     background-color: white;
+    height: 100px;
 }
 
-main{
+body{
     background-color: lightgray;
-    height: 700px;
 }
 
 /* classi */
@@ -26,8 +26,9 @@ main{
 }
 
 .main-section{
-    height: 80%;
+    height: 650px;
     background-color: white;
     margin-left: 20%;
     margin-right: 20%;
+    margin-top: 3%;
 }
