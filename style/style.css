@@ -4,11 +4,30 @@
     box-sizing: border-box;
 }
 
+/* tag */
 img{
     height: 90px;
 }
+
+header{
+    background-color: white;
+}
+
+main{
+    background-color: lightgray;
+    height: 700px;
+}
+
+/* classi */
 .title{
     font-size: 40px;
     font-weight: bold;
     vertical-align: super;
+}
+
+.main-section{
+    height: 80%;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
 }
