@@ -113,15 +113,11 @@ main{
 .green-check{
     color: green;
     border-radius: 50%;
-    height: 5rem;
-    width: 5rem;
     border: 1px solid green;
 }
 
 .red-cross{
     color: red;
     border-radius: 50%;
-    height: 5rem;
-    width: 5rem;
     border: 1px solid red;
 }
